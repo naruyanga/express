@@ -1,0 +1,6 @@
+[
+  { "ner": "nar", "id": 41 },
+  { "ner": "telmuun" },
+  { "ner": "erhes", "id": 58 },
+  { "ner": "hh", "pass": "12345", "id": 96 }
+]
